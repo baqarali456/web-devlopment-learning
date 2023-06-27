@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #76f4f4;
+  
+}
+.container{
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+    padding: 20px 15px;
+    position: relative;
+    
+}
+#input {
+    padding: 12px;
+  
+    width: 277px;
+  }
+  ul{
+    background-color: #ffa6a6;
+    list-style-type: none;
+
+  }
+  ul li{
+    padding: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
